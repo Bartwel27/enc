@@ -10,3 +10,6 @@ decrypted:
 ```
 hello world
 ```
+
+## Installation
+```pkg install wget```
