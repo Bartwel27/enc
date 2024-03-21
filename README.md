@@ -1,5 +1,5 @@
 # enc
-An encryption tool used to encrypt and decrypt letters or charecters in a string from readable or unreadable charecters.
+An encryption tool used to encrypt and decrypt letters or charecters in a string from readable to unreadable charecters or the other way round.
 
 ###### E.G
 encrypted:
