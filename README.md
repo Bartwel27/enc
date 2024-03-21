@@ -21,5 +21,5 @@ pip install termcolor
 ```
 ##### version 0.1
 ```
-wget https://bartwel27.github.io/enc/enc.py
+wget https://bartwel27.github.io/enc/v0.1/enc.py
 ```
