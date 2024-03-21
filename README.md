@@ -12,4 +12,14 @@ hello world
 ```
 
 ## Installation
-```pkg install wget```
+```
+pkg install wget
+```
+
+```
+pip install termcolor
+```
+##### version 0.1
+```
+wget https://bartwel27.github.io/enc/enc.py
+```
