@@ -6,4 +6,7 @@ encrypted:
 ```
 =[??:#-:@?×
 ```
-decrypted: hello world
+decrypted:
+```
+hello world
+```
