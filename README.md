@@ -23,3 +23,6 @@ pip install termcolor
 ```
 wget https://bartwel27.github.io/enc/v0.1/enc.py
 ```
+
+> [!NOTE]
+> Make sure you use the latest version available.
